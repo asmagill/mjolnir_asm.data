@@ -17,6 +17,36 @@ local module = {
 --- This module is based primarily on code from the previous incarnation of Mjolnir by
 --- [Steven Degutis](https://github.com/sdegutis/).
 
+--- === mjolnir._asm.data.json ===
+---
+--- Home: https://github.com/asmagill/mjolnir_asm.data
+---
+--- Functions for data encoding and decoding data within Mjolnir.  This submodule contains
+--- the Hydra json functions.
+---
+--- This module is based primarily on code from the previous incarnation of Mjolnir by
+--- [Steven Degutis](https://github.com/sdegutis/).
+
+--- === mjolnir._asm.data.utf8 ===
+---
+--- Home: https://github.com/asmagill/mjolnir_asm.data
+---
+--- Functions for data encoding and decoding data within Mjolnir.  This submodule contains
+--- the Hydra utf8 functions.
+---
+--- This module is based primarily on code from the previous incarnation of Mjolnir by
+--- [Steven Degutis](https://github.com/sdegutis/).
+
+--- === mjolnir._asm.data.pasteboard ===
+---
+--- Home: https://github.com/asmagill/mjolnir_asm.data
+---
+--- Functions for data encoding and decoding data within Mjolnir.  This submodule contains
+--- the Hydra pasteboard functions.
+---
+--- This module is based primarily on code from the previous incarnation of Mjolnir by
+--- [Steven Degutis](https://github.com/sdegutis/).
+
     ]],
 --]=]
 }
