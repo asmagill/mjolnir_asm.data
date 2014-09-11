@@ -6,7 +6,7 @@ local module = {
     _LICENSE     = [[ See README.md ]]
     _DESCRIPTION = [[
     
---- === mjolnir._asm.settings ===
+--- === mjolnir._asm.data ===
 ---
 --- Home: https://github.com/asmagill/mjolnir_asm.data
 ---
