@@ -15,7 +15,7 @@ version = "0.3-1"
 local url = "github.com/asmagill/mjolnir_asm.data"
 local desc = "Functions for data encoding and decoding within Mjolnir."
 
-source = {url = "git://" .. url}
+source = {url = "git://" .. url, dir = "mjolnir_asm.data"}
 description = {
   summary = desc,
   detailed = desc,
